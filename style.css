@@ -109,7 +109,6 @@ body {
 }
 .select-menu.active .options {
   display: block;
-  opacity: 0;
   animation-name: fadeInUp;
   -webkit-animation-name: fadeInUp;
   animation-duration: 0.4s;
